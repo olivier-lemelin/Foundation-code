@@ -1,0 +1,66 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E0C0F5B216AE1C780059B836 /* LOG350-TP1-Part2 */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* LOG350-TP1-Part2 */;
+		codeSenseManager = E0C0F5BA16AE1C970059B836 /* Code sense */;
+		executables = (
+			E0C0F5B216AE1C780059B836 /* LOG350-TP1-Part2 */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 380509304;
+			PBXWorkspaceStateSaveDate = 380509304;
+		};
+		sourceControlManager = E0C0F5B916AE1C970059B836 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8DD76F960486AA7600D96B5E /* LOG350-TP1-Part2 */ = {
+		activeExec = 0;
+		executables = (
+			E0C0F5B216AE1C780059B836 /* LOG350-TP1-Part2 */,
+		);
+	};
+	E0C0F5B216AE1C780059B836 /* LOG350-TP1-Part2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "LOG350-TP1-Part2";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E0C0F5B916AE1C970059B836 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E0C0F5BA16AE1C970059B836 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
